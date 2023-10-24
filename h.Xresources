@@ -1,0 +1,64 @@
+!!! font settings --------------------------------------------------------------
+Xft.autohint: 0
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.hintstyle: hintfull
+Xft.dpi: 96
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+!!! xscreensaver ---------------------------------------------------------------
+xscreensaver.Dialog.headingFont:        -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.bodyFont:           -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.labelFont:          -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.unameFont:          -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.buttonFont:         -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.dateFont:           -*-fixed-medium-r-*-*-12-*-*-*-*-*-*-*
+xscreensaver.passwd.passwdFont:         -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+!!! XTerm ----------------------------------------------------------------------
+xterm*geometry: 160x50
+xterm*faceName: Terminus
+xterm*faceSize: 12
+xterm*loginshell: true
+xterm*savelines: 16384
+!! scrollbar...
+xterm*rightScrollBar: false
+xterm*ScrollBar: false
+xterm*scrollTtyOutput: false
+! double-click to select whole URLs :D
+xterm*charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
+!! colours...
+xterm*foreground: rgb:a8/a8/a8
+xterm*background: rgb:00/06/18
+! Black 
+xterm*color0: rgb:00/10/20
+! Red
+xterm*color1: rgb:a8/2a/2a
+! Green
+xterm*color2: rgb:00/a8/00
+! Olive
+xterm*color3: rgb:ff/b6/2a
+! Blue
+xterm*color4: rgb:00/20/a8
+! Purple
+xterm*color5: rgb:a8/20/a8
+! Cyan
+xterm*color6: rgb:24/a8/b8
+! Silver
+xterm*color7: rgb:a8/a8/a8
+! Grey
+xterm*color8: rgb:54/54/54
+! Red
+xterm*color9: rgb:fc/64/54
+! Lime
+xterm*color10: rgb:54/fc/54
+! Yellow
+xterm*color11: rgb:fa/fa/52
+! Light Blue
+xterm*color12: rgb:54/64/fc
+! Fuchsia
+xterm*color13: rgb:fc/54/fc
+! Aqua
+xterm*color14: rgb:64/fc/fc
+! WHite
+xterm*color15: rgb:fc/fc/fc
+

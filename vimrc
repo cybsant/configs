@@ -53,4 +53,5 @@ set showmatch
 " включить подсветку синтаксиса Python
 let python_highlight_all = 1
 
-let g:airline_theme='zenburn'
+"let g:airline_theme='zenburn'
+let g:airline_theme='fairyfloss'
